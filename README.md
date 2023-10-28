@@ -1,4 +1,4 @@
-# Aplicativo para jogar Pedra,papel e tesoura.
+# Aplicativo para jogar Pedra, Papel e tesoura.
 
 - IFPR Cascavel
 - 3°ano integrado com Técnico em informática.
