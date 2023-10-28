@@ -5,4 +5,4 @@
 - Matéria: Tópicos Especiais em Informática
 - Data: 14/04/2023
 
-Repositório dedicado aos códigos relacionados ao desenvolvimento do App em Android Stuio para o jogo Jokenpo.
+Repositório dedicado aos códigos Java de desenvolvimento do App em Android Stuio para o jogo Jokenpo.
